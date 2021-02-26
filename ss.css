@@ -15,6 +15,7 @@ header {
 nav {
   float: left;
   width: 25%;
+  top-padding: 12px;
   height: 370px;
   background: #85e0e0;
   text-align: left;
